@@ -1,0 +1,6 @@
+you need to sync your data between clients and server?
+using python for server side and c# for client side you can send and receive the data from client > server > clients scheme
+download python IDLE latest
+download unity 
+run python seperately and attach other scripts to the player
+in model you attach the players who connect.
